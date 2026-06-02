@@ -1,0 +1,6 @@
+{
+  "name": "Future Robotics Academy",
+  "description": "Interactive educational platform for Future Robotics Academy showcasing STEM courses, student projects, learning paths, and AI-powered student advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
